@@ -1,7 +1,7 @@
 # Bistro Boss Client Menu and Order
 
 Bistro Boss is a comprehensive restaurant management website built using the MERN stack (MongoDB, Express.js, React with Vite, and Node.js). This application aims to streamline restaurant operations, providing an intuitive interface for managing reservations, orders, menus, and staff.
-[Server Repo Link](https://github.com/ProgrammingHero1/bistro-boss-server-with-menu-and-order)
+[Server Repo Link]()
 
 ## New Packages Used
 
@@ -31,8 +31,8 @@ Bistro Boss is a comprehensive restaurant management website built using the MER
 
 ## Getting Started
 
-You Need to Clone the repo to analyze the full code. 
+You Need to Clone the repo to analyze the full code.
 ```bash
-git clone https://github.com/ProgrammingHero1/bistro-boss-client-menu-and-order.git
+git clone https://github.com/Md-Firoz-Mahmud-Nur/0148-bistro-boss-restaurant-client-module-65
 ```
 <img src="https://i.ibb.co/kDQLvZR/image.png" />
